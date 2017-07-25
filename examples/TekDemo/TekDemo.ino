@@ -10,7 +10,7 @@
 // by Pito 7/2017
 
 #include "Arduino.h"
-#include "TEK.h"
+#include "Tek.h"
 
 
 TEK tek;
