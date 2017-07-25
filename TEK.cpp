@@ -12,8 +12,6 @@
 #include "Arduino.h"
 #include "TEK.h"
 
-
-
 // Clear Tek screen
 void TEK::Tekcls() {
   Serial.write(0x1B);
@@ -22,6 +20,7 @@ void TEK::Tekcls() {
 }
 
 // Select a color (0-7)
+// [0 = White, 1 = Red, 2 = Green, 3 = Yellow, 4 = Blue, 5 = Magenta, 6 = Cyan, 7 = Böack]
 void TEK::Tekcolor(uint8_t color) {
   Serial.write(0x1B);
   Serial.write(0x5b);
