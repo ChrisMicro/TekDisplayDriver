@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/Tektronix_4010
 # Why? 
 Because there are still many Tektronix emulations around it could be even useful in todays time to have a driver for it
 
-# Who?
+# How?
 
 On wondows you can use teratem.
 In teraterm you can enable the TEk-emulation:
