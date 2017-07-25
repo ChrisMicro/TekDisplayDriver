@@ -14,3 +14,6 @@ On wondows you can use teratem.
 In teraterm you can enable the TEk-emulation:
 setup->terminal->auto switch [VT<->TEK]
 
+## userful links
+[TEK command description] (http://vt100.net/docs/vt3xx-gp/chapter13.html#S13.14)
+
