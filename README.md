@@ -6,12 +6,12 @@ Tektronix vector displays were used 40 years ago:
 https://en.wikipedia.org/wiki/Tektronix_4010
 
 # Why? 
-Because there are still many Tektronix emulations around it could be even useful in todays time to have a driver for it
+Because there are still many Tektronix emulations around, it could be useful, even today, to have a driver for it
 
 # How?
 
-On wondows you can use teratem.
-In teraterm you can enable the TEk-emulation:
+On Windows you can use Teraterm.
+In Teraterm, you can enable the TEk-emulation:
 setup->terminal->auto switch [VT<->TEK]
 
 ## userful links
